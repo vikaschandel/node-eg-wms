@@ -215,8 +215,8 @@ export default function MyAccount() {
                             columnGap: 2,
                             rowGap: 1,
                         }}>
-                            <a className={'iconChip'}><EmailOutlined/> amit.thakur@eternitysolutions.net</a>
-                            <a className={'iconChip'}><PhoneOutlined/> +91-8529698369</a>
+                            <a className={'iconChip'}><EmailOutlined/> vikas.singh@wms.com</a>
+                            <a className={'iconChip'}><PhoneOutlined/> +91-123456789</a>
                         </Box>
 
                         {loggedInClient.baseClientSetupCompleted
