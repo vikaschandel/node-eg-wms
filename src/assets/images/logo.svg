@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 26.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 500 500" style="enable-background:new 0 0 500 500;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:url(#SVGID_1_);}
+	.st1{fill:url(#SVGID_00000036247958002986593230000018289630879370605226_);}
+</style>
+<g id="OBJECTS">
+	<g>
+		<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="250" y1="132.1499" x2="250" y2="368.0194">
+			<stop  offset="0.0915" style="stop-color:#EC0F54"/>
+			<stop  offset="0.1411" style="stop-color:#ED1550"/>
+			<stop  offset="0.5303" style="stop-color:#F54436"/>
+			<stop  offset="0.8292" style="stop-color:#FA6126"/>
+			<stop  offset="1" style="stop-color:#FC6C20"/>
+		</linearGradient>
+		<path class="st0" d="M69.98,371.11h39.74c10.7,0,10.38-9.39,7.84-13.15c-4.79-7.08-6.6-16.22-3.86-25.34l20.51-67.83
+			c4.17-13.97,17.08-23.59,31.66-23.59h168.27c14.58,0,27.49,9.62,31.66,23.59l20.51,67.83c2.73,9.12,0.93,18.25-3.87,25.34
+			c-2.54,3.75-2.85,13.15,7.84,13.15h39.74c35.18,0,60.37-33.84,50.28-67.54l-39.87-133.28c-7.32-24.52-29.98-41.4-55.57-41.4
+			c0,0-91.38,68.25-134.7,68.25c-43.32,0-135.01-68.25-135.01-68.25c-25.59,0-48.25,16.89-55.57,41.4L19.7,303.58
+			C9.61,337.27,34.8,371.11,69.98,371.11z"/>
+		
+			<linearGradient id="SVGID_00000055687000573052086900000003935058207784299959_" gradientUnits="userSpaceOnUse" x1="-2090.4268" y1="131.3609" x2="-2090.4268" y2="368.318" gradientTransform="matrix(-1 0 0 1 -1840.4277 0)">
+			<stop  offset="0" style="stop-color:#FF6A15"/>
+			<stop  offset="1" style="stop-color:#E90068"/>
+		</linearGradient>
+		<path style="fill:url(#SVGID_00000055687000573052086900000003935058207784299959_);" d="M250,190.41
+			c7.67,0,12.72-13.07,20.71-31.99c12.51-29.6,33.7-29.54,52.95-29.54c23.56,0,30.39,0,61.2,0c43.8,0,55.57,41.4,55.57,41.4
+			c-12.97-31.32-59.51-38.14-78.62,7.55c-15.71,37.55-67.03,154.08-67.03,154.08c-10.06,24-23.77,36.97-44.78,36.97
+			c-21.01,0-34.72-12.97-44.78-36.97c0,0-51.33-116.53-67.03-154.08c-19.11-45.69-65.64-38.87-78.62-7.55c0,0,11.77-41.4,55.57-41.4
+			c30.81,0,37.64,0,61.19,0c19.25,0,40.45-0.07,52.95,29.54C237.28,177.34,242.33,190.41,250,190.41z"/>
+	</g>
+</g>
+<g id="DESIGNED_BY_FREEPIK">
+</g>
+</svg>
